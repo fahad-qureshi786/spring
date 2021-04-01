@@ -14,3 +14,4 @@ package*.json
 webpack.config.js
 webpack.generated.js
 **/frontend/generated/
+config.bat
