@@ -21,3 +21,4 @@ vaadin-spring-tests/**/pnpm-lock.yaml
 vaadin-spring-tests/**/pnpmfile.js
 vaadin-spring-tests/**/tsconfig.json
 vaadin-spring-tests/**/types.d.ts
+config.bat
